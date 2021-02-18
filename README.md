@@ -14,10 +14,10 @@
 **Image**
 ![Nature](https://cdn.pixabay.com/photo/2015/06/19/21/24/the-road-815297__340.jpg)
 **Table**
-|Name|Branch|College|
-|-------|------|------|
-|likhita|cse|vrsec|
-|subbu|cse|vrsec|
+Name|Branch|College
+-------|------|------
+likhita|cse|vrsec
+subbu|cse|vrsec
 
 # **code**
 ```
